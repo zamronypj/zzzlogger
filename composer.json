@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Juhara\\ZzzLogger\\Storages\\" : "src/Logger",
+            "Juhara\\ZzzLogger\\" : "src/Logger",
             "Juhara\\ZzzLogger\\Tests\\" : "tests/"
         }
     },
