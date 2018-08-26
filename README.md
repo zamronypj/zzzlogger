@@ -1,5 +1,5 @@
 # ZzzLogger
-Collection of PSR-3 LoggerInterface implementation
+Collection of PSR-3 LoggerInterface implementation.
 
 # Requirement
 - [PHP >= 5.3](https://php.net)
