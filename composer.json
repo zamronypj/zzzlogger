@@ -2,7 +2,7 @@
     "name": "juhara/zzzlogger",
     "description": "PSR-3 LoggerInterface implementation collection",
     "type" : "library",
-    "keywords" : ["logger", "library", "psr-3"],
+    "keywords" : ["logger", "library", "psr-3", "php"],
     "license": "Apache-2.0",
     "authors": [
         {
